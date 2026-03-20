@@ -1,3 +1,5 @@
+INTEGRANTES: RICARDO ALBERTO HERNANDEZ MENDIOLA
+             ALBERTO JOSE VELASQUEZ PAZ
 # Sistema de Gestión de Pedidos: "La Tiendona 25/8"
 
  Situación Problemática
