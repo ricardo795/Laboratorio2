@@ -1,3 +1,22 @@
+# Sistema de Gestión de Pedidos: "La Tiendona 25/8"
+
+ Situación Problemática
+En el municipio de San Miguel, muchos pequeños emprendedores de productos orgánicos y artesanales gestionan sus pedidos a través de mensajes de texto dispersos. Esto genera pérdida de información, errores en las entregas y falta de control sobre el inventario disponible en tiempo real. Los clientes no tienen una forma clara de ver qué hay disponible y los vendedores se saturan respondiendo las mismas dudas sobre precios.
+
+ Sector Enfocado
+- Comercio Minorista (Retail):** Pequeñas empresas y emprendedores locales.
+-  **Logística de Distribución:** Optimización de la toma de pedidos.
+
+Solución Propuesta
+Se desarrolla una aplicación web reactiva utilizando **Vue.js** que permite:
+1.  Visualizar un catálogo dinámico de productos.
+2.  Calcular en tiempo real el costo total de un pedido según la cantidad ingresada.
+3.  Validar que los datos del cliente y las cantidades sean correctos antes de procesar.
+4.  Gestionar estados de visibilidad mediante directivas para mejorar la experiencia de usuario.
+
+
+Respuesta de preguntas:
+
 1 - ¿Qué es Vue.js y cuál es su función en esta página?
 Vue.js es un framework de JavaScript diseñado para crear interfaces de usuario de forma sencilla y eficiente. En esta aplicación, su función es actuar como el "motor" que conecta los datos con lo que el usuario ve. Gracias a Vue, la página no necesita recargarse cada vez que el usuario escribe un nombre o cambia una cantidad; la interfaz reacciona al instante, permitiendo una experiencia fluida y profesional.
 
